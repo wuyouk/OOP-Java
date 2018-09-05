@@ -1,0 +1,68 @@
+1. Apple
+2. Orange
+3. Banana
+4. Melon
+5. Coconut
+6. Chocolate chips
+7. Milk
+8. Vanilla ice cream
+What would you like to add to your smoothie?
+Please enter your choice (1-8, or 0 to finish the order): 4
+Added Melon 59ml
+1. Apple
+2. Orange
+3. Banana
+4. Melon
+5. Coconut
+6. Chocolate chips
+7. Milk
+8. Vanilla ice cream
+What would you like to add to your smoothie?
+Please enter your choice (1-8, or 0 to finish the order): 7
+Added Milk 100ml
+1. Apple
+2. Orange
+3. Banana
+4. Melon
+5. Coconut
+6. Chocolate chips
+7. Milk
+8. Vanilla ice cream
+What would you like to add to your smoothie?
+Please enter your choice (1-8, or 0 to finish the order): 5
+Added Coconut 79ml
+1. Apple
+2. Orange
+3. Banana
+4. Melon
+5. Coconut
+6. Chocolate chips
+7. Milk
+8. Vanilla ice cream
+What would you like to add to your smoothie?
+Please enter your choice (1-8, or 0 to finish the order): 4
+Added Melon 58ml
+1. Apple
+2. Orange
+3. Banana
+4. Melon
+5. Coconut
+6. Chocolate chips
+7. Milk
+8. Vanilla ice cream
+What would you like to add to your smoothie?
+Please enter your choice (1-8, or 0 to finish the order): 0
+1. Plastic cup (300ml)
+2. Melon (236ml)
+3. Coconut (395ml)
+4. Melon (232ml)
+What would you like to use to hold your smoothie?
+Please enter your choice (1-4): 3
+Added Ice 99ml
+Smoothie ingredients:
+Melon (59ml)
+Milk (100ml)
+Coconut (79ml)
+Melon (58ml)
+Ice (99ml)
+Container: Coconut (395ml)
